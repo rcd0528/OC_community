@@ -1,0 +1,5 @@
+# 로컬 실행 스크립트
+*.bat
+
+# Obsidian 설정
+.obsidian/
